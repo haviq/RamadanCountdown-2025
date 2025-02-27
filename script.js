@@ -1,5 +1,5 @@
-// Tanggal target: 1 Ramadan 2025 (28 Februari 2025)
-const ramadanDate = new Date("February 28, 2025 00:00:00").getTime();
+// Tanggal target: 1 Ramadan 2025 (1 Maret 2025)
+const ramadanDate = new Date("Maret 1, 2025 00:00:00").getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
